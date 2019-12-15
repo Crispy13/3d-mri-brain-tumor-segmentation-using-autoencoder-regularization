@@ -1,6 +1,6 @@
 # 3D MRI Brain Tumor Segmentation Using Autoencoder Regularization
 
---- 19.12.15 ---
+--- 19.12.15 --- <br>
 I'm working on editing this script for my own purpose(1 scan type, T1CE).
 You can use model_1channel_mo.py instead of model.py if you have input data with only 1 scan type.
 
