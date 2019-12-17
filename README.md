@@ -4,6 +4,8 @@
 I'm working on editing this script for my own purpose(1 scan type, T1CE).
 You can use **model_1channel_mo.py** instead of **model.py** if you have input data with only 1 scan type.
 
+--- all the following statements is from [IAmSuyogJadhav](https://github.com/IAmSuyogJadhav/3d-mri-brain-tumor-segmentation-using-autoencoder-regularization) 
+
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/3d-mri-brain-tumor-segmentation-using/brain-tumor-segmentation-on-brats-2018)](https://paperswithcode.com/sota/brain-tumor-segmentation-on-brats-2018?p=3d-mri-brain-tumor-segmentation-using)
 ![Keras](https://img.shields.io/badge/Implemented%20in-Keras-red.svg)
 
