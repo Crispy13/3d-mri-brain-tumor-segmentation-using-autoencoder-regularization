@@ -8,7 +8,7 @@
 
 
 # Examples
-[3dcnn_autoenc_reg_example_tf2.ipynb][example_url]
+Please see this notebook : [3dcnn_autoenc_reg_example_tf2.ipynb][example_url]
 
 
 
