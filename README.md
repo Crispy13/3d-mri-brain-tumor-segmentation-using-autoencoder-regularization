@@ -1,4 +1,4 @@
-# 3D MRI Brain Tumor Segmentation Using Autoencoder Regularization
+# 3D MRI Brain Tumor Segmentation Using Autoencoder Regularization with Tensorflow 2
 
 ![Keras](https://img.shields.io/badge/Implemented%20in-Keras-red.svg)
 
