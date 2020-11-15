@@ -19,5 +19,5 @@
 [crispy_url]: https://github.com/Crispy13/crispy/releases/tag/v0.1
 
 <br><br>
-### Any feedbacks will be appreciated
+## Any feedbacks will be appreciated
 I'm a noob in machine learning part, so any advices or feedbacks would be helpful.
