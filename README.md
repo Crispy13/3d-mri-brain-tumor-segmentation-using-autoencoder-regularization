@@ -18,6 +18,6 @@
 [example_url2]: https://github.com/Crispy13/3d-mri-brain-tumor-segmentation-using-autoencoder-regularization/blob/master/3dCNN_autoenc_reg_tf2_examples2.ipynb
 [crispy_url]: https://github.com/Crispy13/crispy/releases/tag/v0.1
 
-
-# Any feedbacks will be appreciated
+<br><br>
+### Any feedbacks will be appreciated
 I'm a noob in machine learning part, so any advices or feedbacks would be helpful.
