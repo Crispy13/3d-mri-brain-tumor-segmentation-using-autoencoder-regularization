@@ -8,10 +8,13 @@
 
 
 # Examples
-Please see this notebook : [3dcnn_autoenc_reg_example_tf2.ipynb][example_url]
+Model usage only : [3dCNN_autoenc_reg_tf2_example.ipynb][example_url1]
+From data preparation to model usage : [3dCNN_autoenc_reg_tf2_example2.ipynb][example_url2]
 
 
 
-[example_url]: https://github.com/Crispy13/3d-mri-brain-tumor-segmentation-using-autoencoder-regularization/blob/master/3dcnn_autoenc_reg_example_tf2.ipynb
+
+[example_url1]: https://github.com/Crispy13/3d-mri-brain-tumor-segmentation-using-autoencoder-regularization/blob/master/3dCNN_autoenc_reg_tf2_example.ipynb
+[example_url2]: https://github.com/Crispy13/3d-mri-brain-tumor-segmentation-using-autoencoder-regularization/blob/master/3dCNN_autoenc_reg_tf2_examples2.ipynb
 
 
