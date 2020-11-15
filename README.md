@@ -8,7 +8,7 @@
 
 
 # Examples
-Model usage only : [3dCNN_autoenc_reg_tf2_example.ipynb][example_url1]
+Model usage only : [3dCNN_autoenc_reg_tf2_example.ipynb][example_url1]<br>
 From data preparation to model usage : [3dCNN_autoenc_reg_tf2_example2.ipynb][example_url2]
 
 
